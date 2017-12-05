@@ -1,0 +1,29 @@
+c:\users\matus\documents\visual studio 2015\Projects\Diplomovka\Diplomovka\bin\Debug\Diplomovka.exe.config
+c:\users\matus\documents\visual studio 2015\Projects\Diplomovka\Diplomovka\bin\Debug\Diplomovka.exe
+c:\users\matus\documents\visual studio 2015\Projects\Diplomovka\Diplomovka\bin\Debug\Diplomovka.pdb
+c:\users\matus\documents\visual studio 2015\Projects\Diplomovka\Diplomovka\obj\Debug\Diplomovka.csprojResolveAssemblyReference.cache
+c:\users\matus\documents\visual studio 2015\Projects\Diplomovka\Diplomovka\obj\Debug\Diplomovka.Properties.Resources.resources
+c:\users\matus\documents\visual studio 2015\Projects\Diplomovka\Diplomovka\obj\Debug\Diplomovka.csproj.GenerateResource.Cache
+c:\users\matus\documents\visual studio 2015\Projects\Diplomovka\Diplomovka\obj\Debug\Diplomovka.exe
+c:\users\matus\documents\visual studio 2015\Projects\Diplomovka\Diplomovka\obj\Debug\Diplomovka.pdb
+C:\Users\Matus\Documents\Visual Studio 2015\Projects\Diplomovka\Diplomovka\obj\Debug\Diplomovka.Main.resources
+C:\Users\matus.a.kovac\Downloads\dip\Diplomovka\obj\Debug\Diplomovka.Main.resources
+C:\Users\matus.a.kovac\Downloads\dip\Diplomovka\obj\Debug\Diplomovka.Properties.Resources.resources
+C:\Users\matus.a.kovac\Downloads\dip\Diplomovka\obj\Debug\Diplomovka.csproj.GenerateResource.Cache
+C:\Users\matus.a.kovac\Downloads\dip\Diplomovka\obj\Debug\Diplomovka.pdb
+C:\Users\matus.a.kovac\Downloads\dip\Diplomovka\bin\Debug\Diplomovka.exe.config
+C:\Users\matus.a.kovac\Downloads\dip\Diplomovka\bin\Debug\Diplomovka.exe
+C:\Users\matus.a.kovac\Downloads\dip\Diplomovka\bin\Debug\Diplomovka.pdb
+C:\Users\matus.a.kovac\Downloads\dip\Diplomovka\obj\Debug\Diplomovka.exe
+C:\Users\matus.a.kovac\Downloads\dip\Diplomovka\obj\Debug\Diplomovka.csprojResolveAssemblyReference.cache
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\bin\Debug\Diplomovka.exe.config
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\bin\Debug\Diplomovka.exe
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\bin\Debug\Diplomovka.pdb
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\obj\Debug\Diplomovka.Main.resources
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\obj\Debug\Diplomovka.Properties.Resources.resources
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\obj\Debug\Diplomovka.csproj.GenerateResource.Cache
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\obj\Debug\Diplomovka.exe
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\obj\Debug\Diplomovka.pdb
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\obj\Debug\Diplomovka.csprojResolveAssemblyReference.cache
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\obj\Debug\Diplomovka.InputDialog.resources
+C:\Users\matus.a.kovac\Downloads\d\Diplomovka\Diplomovka\bin\Debug\AutocompleteMenu.pdb
