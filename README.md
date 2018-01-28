@@ -11,17 +11,17 @@ nižšieho sekundárneho vzdelávania, ktoré bude mať vlastný zvukový progra
 
 Bude obsahovať kompilátor, a editor s kontrolou syntaxu.
 
-Progress:
-Lexikálny analyzátor ☑
-Syntaxový analyzátor:
-  -Celočíselné premenné ☑
-  -Textové premenné ☑
-  -Cykli ☑
-  -Podmienené príkazy ☑
-  -Procedúry ☑
-  -Zvukové premenné ☒
-  -Postupnosti ☒
-Autocomplete menu ☑
-Vlákna ☒
-Zvukové príkazy ☒
-Ukladanie/načítavanie ☒
+Progress:  
+Lexikálny analyzátor ☑  
+Syntaxový analyzátor:  
+  -Celočíselné premenné ☑  
+  -Textové premenné ☑  
+  -Cykli ☑  
+  -Podmienené príkazy ☑  
+  -Procedúry ☑  
+  -Zvukové premenné ☒  
+  -Postupnosti ☒  
+Autocomplete menu ☑  
+Vlákna ☒  
+Zvukové príkazy ☒  
+Ukladanie/načítavanie ☒  
